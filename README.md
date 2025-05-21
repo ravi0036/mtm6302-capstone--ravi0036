@@ -1,1 +1,3 @@
-# mtm6302-capstone--ravi0036
+# name : ravina rani
+# student number : 041145323
+# project : Nasa Apod Api
